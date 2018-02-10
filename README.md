@@ -32,6 +32,8 @@ any restrictions on the code added here (at least at the beginning). Or perhaps 
 some sort of scripts that makes sure that a minimal thing works ... we don't want to have
 a crash by doing only import irispy right? Similar things we have for Bifrost.
 
+# READ IRIS ITN XXX
+
 ## License
 
 The master code:
